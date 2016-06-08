@@ -15,7 +15,7 @@ downloaded [2015-03-16 Mo] from
 http://datadryad.org/resource/doi:10.5061/dryad.6cd0v
 
 sha1sum:
-
+f29a62f2fee91713c1c6a0fea30af741b570de43
 
 
 Mammal metabolic rate
